@@ -1,0 +1,4 @@
+# Declare os arquivos que sempre terão delimitadores de linha CRLF ao fazer checkout.
+_nanorc text eol=lf
+install-custom.sh text eol=lf
+README.md text eol=lf
