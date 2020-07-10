@@ -62,7 +62,7 @@ bind ^F whereis all
 bind ^G findnext all
 bind ^D findprevious all
 bind ^R replace main
-bind ^W writeout main
+bind ^S writeout main
 bind ^O insert main
 bind ^X cut all
 bind ^C copy all
