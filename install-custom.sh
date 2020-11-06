@@ -1,5 +1,5 @@
 #!/bin/bash
-cp _nanorc $HOME/.nanorc
-unzip _nano.zip -d $HOME/
+cp _nanorc ~/.nanorc
+unzip _nano.zip -d ~/
 sudo cp _nanorc /root/.nanorc
 sudo unzip _nano.zip -d /root/
