@@ -1,6 +1,6 @@
 ##======================================
-##  _ __   __ _ _ __   ___  
-## | '_ \ / _` | '_ \ / _ \ 
+##  _ __   __ _ _ __   ___
+## | '_ \ / _` | '_ \ / _ \
 ## | | | | (_| | | | | (_) |
 ## |_| |_|\__,_|_| |_|\___/
 ##
@@ -48,7 +48,7 @@ set matchbrackets "(<[{)>]}"
 set mouse
 
 ## Use smooth scrolling as the default.
-set smooth
+#set smooth
 
 ## Paint the interface elements of nano.  These are examples;
 ## by default there are no colors, except for errorcolor.
